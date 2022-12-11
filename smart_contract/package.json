@@ -1,0 +1,29 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "description": "ethereum site",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lola-source/kry.git"
+  },
+  "keywords": [
+    "source"
+  ],
+  "author": "lola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lola-source/kry/issues"
+  },
+  "homepage": "https://github.com/lola-source/kry#readme",
+  "dependencies": {}
+}
